@@ -1,0 +1,13 @@
+.details {
+  display: flex;
+  .book-info {
+    .book-description {
+      h2 {
+        margin-top: 0;
+      }
+      p{
+        font-size: 18px;
+      }
+    }
+  }
+}

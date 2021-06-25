@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+input,
+textarea {
+  display: block;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.vertical-align {
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}

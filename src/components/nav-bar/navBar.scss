@@ -1,0 +1,16 @@
+.wrapper {
+  border-bottom: 1px solid #dddddd;
+  width: 100%;
+  .navbar,.navbar-align  {
+    height: 60px;
+    line-height: 60px;
+    a {
+      margin: 10px;
+    }
+  }
+
+  .active {
+    background-color: aliceblue;
+  }
+}
+

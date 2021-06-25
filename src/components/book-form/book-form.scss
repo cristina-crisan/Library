@@ -1,0 +1,13 @@
+form {
+  label {
+    display: block;
+    margin: 10px 0;
+  }
+  input {
+    height: 25px;
+  }
+  input,
+  textarea {
+    width: 100%;
+  }
+}
